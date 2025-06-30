@@ -1,0 +1,28 @@
+marine_knowledge_ai/
+│
+├── data/
+│   └── raw_documents/
+│       ├── *.pdf
+│       ├── metadata.json
+│       ├── extracted_text.json         # ⬅️ Output of Phase 1.2
+│       └── document_embeddings.json    # ⬅️ Output of Phase 1.3
+│
+├── ingestion/
+│   ├── __init__.py
+│   ├── load_metadata.py                # ⬅️ Phase 1.1
+│   └── extract_text.py                 # ⬅️ Phase 1.2
+│
+├── embedding/
+│   ├── __init__.py
+│   └── generate_embeddings.py          # ⬅️ Phase 1.3 (semantic vectorization)
+│
+├── search/
+│   ├── __init__.py
+│   ├── vector_db.py                    # ⬅️ Phase 1.4 (ChromaDB)
+│   └── search_api.py                   # ⬅️ Phase 1.5 (FastAPI)
+│
+├── ui/
+│   └── simple_ui.html                  # ⬅️ Phase 1.6 (minimal frontend)
+│
+├── requirements.txt
+└── run.py                              # Optional: entry point script
