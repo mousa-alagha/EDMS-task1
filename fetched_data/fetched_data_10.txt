@@ -1,0 +1,213 @@
+[i125s.pdf, page 26]2200M4-JE-HO-iS2-N_2014.04.  
+Chapter 2 Compressor Specifications and Configuration 
+Screw Compressor i-series  2.3 Compressor Specifications  
+2-9 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+ 
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+ 
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+Figure 2-5
+ i160L Outer Dimensions Diagram 
+ 
+---
+[i125s.pdf, page 25]2200M4-JE-HO-iS2-N_2014.04.  
+Chapter 2 Compressor Specifications and Configuration 
+Screw Compressor i-series  2.3 Compressor Specifications  
+2-8 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+ 
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+ 
+ 
+Figure 2-4
+ i160M Outer Dimensions Diagram 
+---
+[i125s.pdf, page 19]2200M4-JE-HO-iS2-N_2014.04.  
+Chapter 2 Compressor Specifications and Configuration 
+Screw Compressor i-series  2.3  Compressor Specifications  
+2-2 
+ 2.3 Compressor Specifications 
+2.3.1 Specifications 
+ 
+Table 2-1 Specifications of i-Series Compressor 
+Items Model 
+i125S i125L i160S i160M  i160L 
+Single unit weight  *Note 1  kg 530 570 640 680 720 
+Motor connection  NEMA - C-FACE D-FLANGE 
+ IEC - FF400, FF500 FF600 
+Standard speed   50Hz/60Hz min-12950/3550 
+Rotation direction - Clockwise as viewed from motor 
+Displacement     50Hz/60Hz m3/h 197/237 296/356 415/499 519/624 622/749
+CFM 116/139 174/210 244/294 305/367 366/441
+Refrigerant - R717 / R404A / R507A / R134a 
+Design pressure *Note 2  MPa2.6 
+(Applies to i-series compressors manufactured  
+and shipped in May 2014 or after.) 
+Capacity control - 3-step (100%, 75%, 50%) unloader 
+Connected pipe size Suction flange - MYCOM 100A (4") ANSI ＃300 5" 
+Discharge flange - MYCOM 65A 
+(2-1/2") ANSI ＃300 3" 
+Oil inlet port - Rc1/2 Rc1 
+Economizer  - Rc3/8 Rc3/4 
+Aquamizer  
+(Liquid injection) - Rc1/4 Rc1/2 
+ 
+  Unless otherwise noted, the pressure unit MPa represents the gauge pressure in this manual. 
+  For limits of working temperature and pressure, see "2.3.2 Operation Limits" in this manual. 
+   *Note 1 : Data include a weight of a flange mo tor spacer of the NEMA standards.  
+   *Note 2: The design pressure varies according to each area, laws and ordinances of the country.  
+          The design pressure of this list is the maximu m value of the compressor. Therefore, the  
+         real design pressure may become less t han this value according to the law.  
+         Please confirm real pressure on a name plate and individual specifications. 
+  
+ 
+  
+ 
+  
+ 
+---
+[i125s.pdf, page 24]2200M4-JE-HO-iS2-N_2014.04.  
+Chapter 2 Compressor Specifications and Configuration 
+Screw Compressor i-series  2.3 Compressor Specifications  
+2-7 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+ 
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+ 
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+Figure 2-3
+ i160S Outer Dimensions Diagram 
+ 
+---
+[i125s.pdf, page 18]2200M4-JE-HO-iS2-N_2014.04.  
+Chapter 2 Compressor Specifications and Configuration 
+Screw Compressor  i-series 2.1 Features of i-Series Compressor   
+2-1 Chapter 2 Compressor Specifications and Configuration 
+ 
+2.1 Features of          i-Series Compressor 
+              i-series compressor enables designers to design highly reliable and most compact 
+refrigerating unit. It has a lot of features. 
+ Centering is made unnecessary by mounting the motor using a flange. 
+By mounting the motor using a flange eliminates th e need of the troublesome motor centering before 
+starting the equipment.  
+ Suction strainer and check valve built-in compressor 
+This compressor has built-in suction strainer and check valve which enable easy maintenance. 
+ No oil pump required in differential pressure oil supply system 
+This compressor employs roller bearings which let lubrication oil reserved in part even when the 
+machine is stopped. Accordingly, no lubrication failure will occur even with differential pressure oil 
+supply system which has no oil pump installed.  
+ 3-step (100%, 75%, 50%) unloader 
+As it has a 3-step (100%, 75%, 50%) unloader built-in, flow adjustment can be done easily. 
+Inverter-controlled speed control is available. 
+ High efficiency, and low vibration and noise 
+Use of            original screw rotor profile attains high efficiency, and low vibration and noise. 
+ 
+ 
+2.2 Model Designation of the Compressor 
+This manual describes i125*-* and i160*-* models. 
+The meaning of the type designation, which is eng raved on the MODEL column of the compressor 
+nameplate, is as follows. 
+ 
+ i 1 2 5 * - * 
+ 
+         Specifications of Vi (volume ratio)  of the discharge port, which is L (Vi=2.63), M (Vi=3.65) 
+or H (Vi=5.80)   
+        Specifications of rotor length, which is S or L (i125) and S, M or L (i160) 
+         Rotor diameter, which is 125 or 160 
+       I n d i c a t e s  i - S e r i e s .  
+ 
