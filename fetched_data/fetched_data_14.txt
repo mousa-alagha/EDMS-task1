@@ -1,0 +1,293 @@
+[g20.pdf, page 17]G2030-II-C 
+Mar ‘17 
+ - 17 -Common Compressor Faults  
+ 
+Common Faults. 
+Noted below are the most common Faults experienced. 
+ 
+‘CSC300’ Alarms. 
+There is an issue with the Unit, but it will still operate. 
+ 
+Code: Description: Most Common Items to Check: 
+A:0083 Motor phase imbalance Check supply voltage, fuses and cable 
+A:0119 Delivery Pressure High Solenoid not working, Intake Valve Orifice cl ogged, Transducer dirty or faulty, pressure changed 
+incorrectly, alternate external pressure source 
+A:0129 Delivery Temperature High Ambient temp high, Unit dirty, low oil level, no air flow through Unit, Temp Sensor defective 
+A:2816 Power Failure Occurred Press ‘Reset’ Button and restart Unit 
+A:4819 Routine Service Due Service Unit and re set Service Timer (Page ‘P16’ on Controller) 
+A:4809 Grease Service Due Service motor and reset Grease Service Timer (Page ‘P16’ on Controller) 
+ 
+‘CSC300’ Shutdown Errors. 
+There is an issue with the Unit, and the Unit will not operate until the Fault has been addressed. 
+ 
+Code: Description: Most Common Items to Check: 
+E:0010 Emergency Emergency stop switch is pressed 
+E:0070 Fan Motor Alarm Che ck electrical connections 
+E:0082 Motor Overload Motor drawing high amps, lo w voltage, high pressure settings, low oil level 
+E:0083 Motor phase Imbalance Check motor connecti ons in the control panel and motor connection box 
+E:0090 Phase Sequence Rotation of Motor wrong, sequence order of supply cable incorrect 
+E:0091-
+0093 Phase L1/L2/L3 Fault Check supply voltage, fuses and cable 
+E:0115 Delivery Pressure Sensor Fault Transducer not making good electrical contact, or defective 
+E:0119 Delivery Pressure High Solenoid Not working, Intake Valve Orifice clogged, Transducer dirty or faulty, pressure 
+changed incorrectly, alternate external pressure source 
+E:0125 Delivery Temp Sensor Fault Temperature Sens or not making good electrical  contact, or defective 
+E:0129 Delivery Temperature High Ambient temp high, Unit dirty, low oil level, no air flow through Unit, Temp Sensor defective 
+E:0902 Anti-Rotation Rotation of Main Motor wrong, Solenoid Valve not relieving pressure 
+E:1902 Inverter Fault Variable frequency drive tripped.  Check VFD screen for more info. 
+ 
+ 
+ 
+  
+ 
+ Downloaded from www.Manualslib.com  manuals search engine  
+---
+[125200.pdf, page 29]1 0 0 P S IHigh Airend Disch Temp
+229°F
+Press RESET Twice3.12 ALARMS
+STATUS MAIN MENU RESETSTOPPED BY ALARM
+Mode:MOD/ACS
+1 0 0 P S I-ALARM STATUS-
+Package Disch Pressure
+100 PSI
+Package Discharge Temp
+103°F
+ALARM MAIN MENUSTOPPED BY ALARM
+Mode:MOD/ACS
+The name and value of each of the items listed can beseen by moving the list up and down using the arrowbuttons.Pressing the ALARM button will return thedisplay to the Alarm screen and the RESET button.The Alarm needs to be reset by the operator bypressing the RESET button twice.Any exceptions tothis are explained in the alarm descriptions.When an Alarm occurs, an exclamation mark will flashon the display screen as shown above.The displaymessage will indicate what caused the Alarm.Pressing the STATUS button will display the ALARMSTATUS screen with the ALARM button indicating anAlarm still exists.Alarm Status is the list of machineoperating conditions that existed at the time of theAlarm.COMMUNICATION FAIL 1 (or 2 - 4) - This warning
+will occur if the compressor is the lead unit while usingintegral sequencing and is unable to communicate withanother compressor.
+SERVICED REQUIRED - The Intellisys has 2 levels of
+service.The service level can be set at the factory or
+by an Ingersoll-Rand service representative.Eitherservice level will issue a “SERVICE REQUIRED”warning at 150 hours.This warning is a reminder forinitial service and can be cleared by the operator.
+Level 1 - If service level 1 (default) is selected, a
+“SERVICE REQUIRED”warning will be issued every2000 operating hours.This warning is to serve as areminder to have the unit serviced and can be clearedby the operator.Level 2 - If service level 2 is selected, servicewarnings will be issued every 2000 operating hours(default) or in 3, 6, 9, or 12 month intervals, asselected at the factory or by an I-R servicerepresentative.Service warnings at level 2 are issuedin 3 stages.First a “100 HOURS TO SERVICE”or 14DAYS TO SERVICE”(depending on the serviceinterval type) warning will be issued.This warning willlet the operator know that the time for service isapproaching and can be cleared by the operator.Following that, 100 hours or 14 days later a “SERVICEREQUIRED”warning will be issued.This warning canbe temporarily cleared by the operator, however it willreturn 24 hours later if service has not been performedby an I-R service representative.A new service periodwill start when service is performed.If another 100hours or 14 days elapses and service has not beenperformed, an “ALARM-SERVICE REQUIRED”warning will be issued.This warning can only becleared by an I-R service representative.
+SENSOR FAILURE 6APT - This warning will occur if
+the separator delta-p sensor option is installed and
+sensor 6APT is recognized as missing or broken.
+273.11 WARNINGS (CONTINUED)
+---
+[125200.pdf, page 30]28The possible Alarm messages are as follows.
+CHECK INLET CONTROL- This will occur if the
+machine is unloaded and the inlet vacuum is less than
+3 psig (.2 bar).
+CHECK INLET CTRL SYS 1 (2) - This will occur if the
+inlet butterfly valve fails to open or close properly.A 1
+means the inlet valve failed to closer properly.A 2means the inlet valve failed to open properly.
+CHECK MOTOR ROTATION- This will occur if the
+machine is started and the compressor has incorrect
+rotation.
+CONTROL POWER LOSS- This will occur if the
+controller detects a loss of the 110 VAC or 120 VAC
+control power.
+EMERGENCY STOP- This will occur if the Emergency
+Stop button is engaged.The button must be
+disengaged before the alarm can be cleared.
+FAN MOTOR OVERLOAD- This will occur if a fan
+motor overload is sensed.HIGH AIREND DISCH TEMP- This will occur if the
+airend discharge temperature is greater than 228°F(109°C).
+LOW SUMP AIR PRESSURE- This will occur if the
+machine is running fully loaded and the sump pressure
+drops below 20 psig (1.4 bar).
+LOW UNLOAD SUMP PRESS- This will occur if the
+machine is running unloaded and the sump pressure
+is less than 15 psig (1.0 bar) for 15 seconds.
+MAIN MOTOR OVERLOAD- This will occur if a drive
+motor overload is sensed.CHECK SET POINTS- This will occur if the controller
+has determined some of the data stored in memory
+contains unacceptable values.When this occurs, thesensors should be calibrated and all the set pointschecked.It is normal for this alarm to occur afterchanging controller software.REMOTE START FAILURE- This will occur if the
+Remote Start button is pressed after the machine isrunning or if the Remote Start button remains closed.
+REMOTE STOP FAILURE- This will occur if the
+Remote Stop button remains open and either Start
+button is pressed.
+SENSOR FAILURE 1AVPT (or 3APT,4APT,
+5CPT,2CTT,2ATT,3CTT) - This will occur if a sensor
+is recognized as missing or broken.This does notapply to sensor 4ATT.
+STARTER FAULT 1SL (2SL)- This will occur if the
+starter contacts open while the machine is running.It
+will also occur if the machine is given the stopcommand and the starter contacts do not open.1SLrefers to the auxiliary circuit on starter contact 1M.2SLrefers to the auxiliary circuit on starter contacts 2Mand 1S.
+STEPPER LIMIT SWITCH- This will occur if both limit
+switches are activated at the same time.INVALID CALIBRATION- This will occur during the
+calibration process if the sensor reads greater than
+20% of scale.
+LOW COOLANT PRESSURE- This will occur if the
+compressor is running and the following conditions are
+met.The coolant must be less than 1 psi and eitherthe sump pressure is greater than 10 psi or the inletvacuum is less than 12 psi.
+---
+[g20.pdf, page 35]M1
+G-SERIES FIXED SPEED COMPRESSOR
+CSC300 CONTROLLERELECTRICAL SCHEMATICS
+WITH MICROPROCESSOR
+CSC300GEH 01/29/16 N.T.S.STARTER CONTACTOR 1L1 L2 L3T2 T3 T1STARTER CONTACTOR 3L3 L2T3 T2
+L1T1STARTER CONTACTOR 2
+T4 T5MOTORT1 T3
+T6T2T1 T2 T3L1 L2 L3POWER CIRCUIT SCHEMATIC
+200
+230
+460VOLTAGEF1 F2 F4
+3NA 33
+3
+.75 .75
+4STARTER
+M31
+52
+6
+1
+2JUNCTION BLOCK
+TERMINAL BLOCK
+3PRIMARY FUSES F1, F2
+4CURRENT SENSOR
+5TRANSFORMER
+6SECONDARY FUSES F3PANEL SCHEMATIC
+A2A1F3
+577
+3L3L2L1ATQR, CC
+FUSIBLE DISCONNECT
+BY CUSTOMER
+GND5MMFUSE TABLE
+WARNING:  REPLACE WITH THE SAME FUSE TYPE & RATING
+IMPORTANT NOTE: This print is the confidential property of DV SYSTEMS, INC.
+It is not to be used or reproduced in any manner, nor submitted to other parties
+for examination without the prio r approval of DV SYSTEMS, INC.
+DV SYSTEMS, INC. is continuously trying to improve its products, specifications
+subject to change without notice.F1
+F20+24VACF31 2
+24 VACXO5TP
++C
+CSC300
+20
+012 16 15 13+
+BLK
+WHT
+-RSS
+17
+X13 XO9
+RELAY OUTPUTS
+MICROPROCESSOR 11
+S14
+-3 PHASEX12
+L1 L2 L3
+aCT1X11
+bcCT2X10
+aCCR 1 R 2 R 3XO8
+RELAY OUTPUTS
+CR 4 R 5 R 6XO7
+PROGRAMMABLE
+CR 7 R 8 CRELAY OUTPUTS
+ANA-O
+ANA-GDI1
+DI2
+DI3DI4
+DI5
+DI6
+DI7
+DI8C-AN1
+AN1
+AN2
+AN3C-AN2
+C-AN3
+L1 L2
+XO6L1 L2
+61 1X01
+DIGITAL INPUTSX02
+ANALOGUE INPUTSX03
+M2
+A2A1E12 12 12
+12
+345 L1L2 L3CT1 1
+CT1 2
+CT2 1
+CT223
+4
+5CT1
+CT2
+M3
+A2A1M3
+AUX
+M1
+AUX7
+89
+10NA
+NAE - EMERGENCY STOP
+CT1 - CURRENT TRANSFORMER #1
+CT2 - CURRENT TRANSFORMER #2
+M1 - STARTER COIL 1
+M2 - STARTER COIL 2
+M3 - STARTER COIL 3P - PRESSURE TRANSDUCER 
+S - SOLONOID N.O.
+T - TEMPERATURE SENSORRSS - REMOTE START/STOP, N/O
+(FIELD OPTION:
+INSTALL RSS TO #17 AND #12
+TERMINAL BLOCK. INSTALL WIRE 
+FROM #17 TO DI5.  ON P18 CHANGE 
+P18.08 FROM 'OFF' TO 'DI REMOTE START'.  
+ON P10 CHANGE P10.12 FROM 'KEYPAD' 
+TO 'EQUIPMENT DI'.)
+X07 - R7 AND R8 FOR PROGRAMMABLERELAY 
+OUPUT FUNCTION
+STARTER
+M2STARTER
+M1
+D575 NA .5.55
+(DSC-002361)D 02/15/17 DISCONNECT NOTES REMOVED ---C 01/29/16 G-SERIES 575V SEC. FUSE RATING CORRECTED ---Downloaded from www.Manualslib.com  manuals search engine  
+---
+[g20.pdf, page 4]G2030-II-C 
+Mar ‘17 
+ - 4 -
+Quick Start (cont’d) 
+ 
+Unit Operation. 
+ 
+Shown below is the ‘CSC300’ Controller which regulates t he operation of the Unit. It is used to start and stop the 
+Unit, and it provides information as to  system pressure, temperature, etc. 
+ 
+Starting the Unit:  Press the ‘ Start ’ Button. 
+ Stopping the Unit:  Press the ‘ Stop ’ Button 
+ Note: 
+1. Do not stop the Unit using the ‘Emergency Stop’ Button unless there is a danger to the product or of 
+personnel injury. 
+2. Do not stop the Unit by us e of a disconnect or breaker. 
+ 
+  
+ 
+  
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+ 
+ 
+Using the Emergency Stop Button, disconnect, or breaker to stop the Unit will not allow the Unit to go through an unloading sequence, and could result in damage to the Motor, Starter, or other electrical components. Damage caused in this manner 
+is not covered by the manufacturers Warranty. 
+ 
+Enter, Up, Down & Escape. 
+Used in the programming and changing 
+of operating parameters of the Unit. Emergency Stop. 
+Will quickly shut the Unit off. Is only to be used in an 
+emergency. 
+Digital Readout. 
+Indicates Unit pressure, 
+temperature, etc. Stop. 
+Causes the Unit to enter ‘Idle’ mode and then shut off. Start. 
+Starts the Unit. Downloaded from www.Manualslib.com  manuals search engine  

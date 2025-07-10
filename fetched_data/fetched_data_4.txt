@@ -1,0 +1,341 @@
+[125200.pdf, page 50]487.0 OTIONS
+7.1 POWER OUTAGE RESTART OPTION
+For customers that have interruptions in their incomingpower supply to the compressor and must maintain anuninterrupted supply of compressed air, the PowerOutage Restart Option allows an Intellisyscompressor torestart automatically 10-120 seconds (adjustable) afterincoming power is restored.
+The Power Outage Restart Option is turned on by
+plugging in the required option module and enabling itthru the OPTION’S set point routine.The restart timedelay, which is adjustable from 10-600 seconds, can alsobe adjusted while in the option’s set routine on theIntellisys controller.Any time power is restored to thecompressor after a power interruption, a horn located onthe side of the starter box will sound during the restarttime delay (10-600 seconds), after which the compressorwill automatically start.After starting, the compressor willreturn to the mode of operation that the compressor wasin prior to the power interruption.
+This option may be factory installed or a field installation
+kit is available.
+7.2 SEQUENCER
+The sequencer option is turned on by enabling it throughthe OPTIONS set point routine.Enabling thisoption will allow the compressor to be controlled by anexternal device, such as an ISC or sequencer, usingthe communications port (P7) on the Intellisys.
+7.3 LOW AMBIENT
+The lowambient option is turned on by enabling it throughthe OPTIONS set point routine.Also temperature sensor,3CTT, is added to the compressor and connected at P6-7& 8 on the Intellisys.The options set point, minimumcooler out temperature, is set to the minimum temperatureat which the unit can load.When this option is enabled,the compressor, after being started, will not load until theIntellisys reads a temperature from 3CTT at or higherthan the value of the minimum cooler out temperature setpoint.If this option is enabled without installing 3CTT,
+a SENSOR FAILURE 3CTT alarm will occur.
+7.4 SEPARATOR DELTA-P SOLENOID
+The separator delta-p solenoid option is turned on byenabling it through the OPTIONS set point routine.When this option is enabled, the Intellisys will measurethe pressure drop across the separator element byfirst reading the wet side sump pressure.Next theIntellisys will momentarily energize solenoid that willswitch the dry side sump pressure to the sump pressuresensor (3APT).The Intellisys will then read the dryside sump pressure and subtract it from the wet sidesump pressure to measure the pressure drop across theseparator element. Do not enable this option if the
+separator delta-p solenoid is not installed.This willresult in an incorrect measurement of the pressuredrop across the separator element.
+7.5 SEPARATOR   DELTA-P SENSOR
+The separator delta-p sensor option is turned on byenabling it through the OPTIONS set point routine.When this option is enabled, the Intellisys will measurethe pressure drop across the separator element bysubtracting the dry side sump pressure (6APT) from thewet side sump pressure (3APT). Do not enable this
+option if the separator delta-p sensor is not installed.This will result in an incorrect measurement of thepressure drop across the separator element and a6APT sensor failure warning.
+7.6 HIGH DUST FILTER
+The high dust filter option is turned on by enabling itthrough the OPTIONS set point routine.If this optionis enabled, the Intellisys;will change its measurement ofthe inlet filter. Do not enable this option unless a high
+dust filter is installed.
+7.7 LEAD/LAG CYCLE LENGTH
+The lead/lag cycle length option allows the Intellisys toautomatically switch the online and offline pressuresettingsto the lead or lag values after a programmednumber of hours.This option is enabled by selecting anumber of hours greater than 0 in the OPTIONS set pointroutine.
+7.8 SCHEDULEDSTART/STOP
+The scheduled start/stop option allows the customer toautomatically start and stop the compressor once eachday, based on the real time clock.This is an installedoption and is enabled by selecting a scheduled start andscheduled stop time.Setting the scheduled start andscheduled stop times to the same value will disable thisoption.
+--- Now onto the next source
+[zt_series.pdf, page 47]Instruction book 
+2920 1472 03  47 29. Open drain valve (8-Fig. 1.5). 
+ 
+ 
+  
+ 
+  
+ 
+  
+ 
+Co Oil cooler Dmo Oil drain valve, gear casing 
+FC Oil filler cap 
+OF Oil filter SG Oil level sight-glass 
+1 Arrow, indicating correct rotation 
+direction of drive motor 
+ 
+Fig. 3.3  Oil system components 
+ 
+ 
+ 
+ 1 Start button 
+2 Display 
+3 Scroll keys 4 Tabulator key 
+5 Function keys 6 Voltage on LED 
+7 General alarm LED 
+8 Automatic operation LED 9 Stop button 
+S3 Emergency stop button 
+ Fig. 3.4  Control panel 
+ 
+ 
+--- Now onto the next source
+[srl_series.pdf, page 23]Operation(continued)
+● During inspection of the safety relief valve, a loud noise will be emitted from the safety relief valve,
+    therefore, prepare for the noise in order to prevent personal injury.
+ ● If there is excessive vibration or abnormal sound, please refer to page 25 for adjustment. 
+● If the air compressor is not operating and the discharge stop valve is closed, the pressure indication
+    on the digital display may lower, which is due to a decrease in temperature. This is normal. 
+● Turn off the power in the case of a power failure or electric storm to prevent damage to the air
+    compressor and/or personal injury.① Close the front door and fully open the
+    discharge stop valve. 3  Start Up  (Please contact the local Hitachi distributor for start up.)
+② Check the earth leakage (ground) circuit
+    breaker to make sure it is ON. Turn ON
+    the main power supply to the air
+    compressor.
+⑦ Open the discharge stop valve to lower the
+    pressure and verify that the air compressor
+    restarts at the load pressure setting.
+⑤ Close the stop valve on the air receiver
+    and verify that the operation of the air
+    compressor stops when the pressure
+    reaches maximum pressure (under
+    pressure switch control mode).
+    During operation of Multi-Drive control
+    mode, the SRL compressor heads will stop
+    one after another, and maximum pressure
+    will not be reached. This is not a failure.⑥ Slightly pull the spindle of the safety relief valve
+    when the air compressor is near maximum
+    pressure. 
+Safety Relief
+Valve
+ON
+CAUTION
+Slightly pull the spindle of
+the safety relief valve.
+19③ Press the Start switch.
+④ Verify that the rotating direction of the
+    main electric motor is clockwise when 
+    viewed from the front as shown in the
+    diagram below.
+Rotating
+Direction
+7.5/11M6 16.5M6
+Note) It is normal that the operation of the
+         air compressor restarts at a pressure
+         higher than the recovery pressure under
+         Multi-Drive control mode.
+--- Now onto the next source
+[zr55.pdf, page 59]“Low Load”
+“Unconditionally Activated”
+.
+“Menu” “Modify”  
+F1 F2 F3
+• The screen shows that the low load setting is “Unconditionally Activated”. To modify this setting, press
+the “Modify” key (F2); the setting wil blink.
+• Use the scroll keys to change the setting.
+•Press the “Program” key (F1) to program the new mode or the “Cancel” key (F3) to cancel the modification
+operation.
+It is possible to program three operation settings:
+• “Unconditionally Activated” (standard setting): Low load option always on.
+• “Automatically Activated”: Calculates the load cycle in a window of an hour. If the load cycle is lower
+than 40 %, the low load option is activated. After the low load cycle reaches 60 %, the low load option
+will be deactivated.
+• “Disabled”: On compressors with Low load option or compressors with IND dryer, always set this option
+to off.
+3.16 Modifying protection settings
+Control panel
+Function
+To modify protection settings:
+• “Shutdown”, e.g. for the compressor element outlet temperature
+• “Shutdown warning”, e.g. for the compressor element outlet temperature
+• “Warning”, e.g. for the dew-point temperature
+• “Service warning”, e.g. for the maximum pressure drop over the air filter
+To check various compressor conditions, e.g. the status of the emergency stop button. Some parameters cannot
+be modified.
+Instruction book
+58
+--- Now onto the next source
+[zt_series.pdf, page 52]Instruction book 
+2920 1472 03  52  
+4.1.4 Service plan 
+A number of service operations are grouped (called Leve l A, Level B, Level C, ...).  Each level stands 
+for a number of service actions to be carried out at t he time intervals programmed in the Elektronikon 
+regulator. 
+ When reaching a level, a message will appear on the screen.  After carrying out all service actions, the 
+interval timers are to be reset using the key "Res et" in menu "Service".  Consult your Atlas Copco 
+Customer Centre.  
+ 
+4.2 Motor greasing 
+4.2.1 Fan motor (ZT) 
+The bearings of the fan motor are greased for life.  Contact your Customer Centre for the replacement 
+interval of the motor bearings.  
+4.2.2 Drive motor (M1-Fig. 1.2) ZT15 up to ZT22 
+ The bearings are greased for life; contact your Cust omer Centre for the replacement interval of the 
+motor bearings.  ZT/ZR30 up to ZT/ZR45  
+Greasing interval 4000 hrs (Level A) 
+Quantity, drive end 15 g 
+Quantity, non-drive end 15 g 
+Recommended grease Esso Unirex N3 
+ 
+Important 
+Never mix greases of different brands or types. 
+ 
+ 
+4.3 Oil specifications 
+Use Atlas Copco Roto-Z oil, which has been specially  developed for oil-free rota ry compressors.  This 
+oil has a long service life and ensures optimum lubrication. 
+ 
+Important 
+Never mix oils of different brands or types.  
+ 
+4.4 Storage after installation 
+Run the compressor, e.g. twice a week, until warm.  If the compressor is going to be stored without running from time to time, protective measures must be 
+taken.  Consult Atlas Copco. 
+  
+4.5 Service kits 
+Service kits 
+Service kits comprise all parts needed for servici ng components and offer the benefits of genuine Atlas 
+Copco parts while keeping the maintenance budget low.   All service kits are mentioned in the relevant 
+Parts Lists. 
+--- Now onto the next source
+[zt_series.pdf, page 48]Instruction book 
+2920 1472 03  48 3.2 Starting (Fig. 3.4) 
+Attention 
+The operator must apply all relevant safety precauti ons, including those mentioned in this instruction 
+book.  
+1. On compressors with an IMD dryer, close drain valve (8-Fig. 1.5). 
+2. Check the oil level, which must be in the mi ddle of sight-glass (SG-Fig. 3.3).  Top up, if 
+necessary, with the correct type of oil. 
+3. On ZR , check the setting of the valves (1 and 4-Fig. 3.6 or 5, 6 and 7-Fig. 3.7 in case of IMD 
+dryer) as described in section 3.1.  This can be overlooked if, after previous operation, the 
+settings of these valves have not been disturbed. 
+4. Close the manual condensate drain (1-Fig. 3.5).  
+5. Open the air outlet valve (customer's installation). 
+6. Switch on the voltage and check that voltage on LED (6) lights up. 
+7. Press start button (1).  The compressor st arts running and automatic operation LED (8) lights 
+up. 
+8. On compressors with an IMD dryer, open the air outlet valve of the dryer (10-Fig. 1.5) and 
+close by-pass valve (9-Fig. 1.5). 
+9. On 10 bar compressors, check that the temperature differe nce between the outlet of both 
+elements is not more than 5°C.  If it exceeds the 5°C, check that the difference between the 
+highest element temperature and the surroundi ng temperature does not exceed 185°C.  If the 
+value should be exceeded, contact Atlas Copco. 
+ 
+Warning 
+- When the compressor is stopped and automatic operation LED (8) is alight, the compressor 
+may start automatically. 
+- If the start/stop timer is active, the compressor  may start automatically, even if it was stopped 
+manually.  Consult the User manual for Elek tronikon regulator, sect ion “Programming Clock 
+function”. 
+ 
+3.3 During operation (Fig. 3.4) 
+When automatic operation LED (8) is alight, the El ektronikon regulator is automatically controlling the 
+compressor: the air delivery is matched to the air consumption, the compressor will start and stop 
+whenever necessary. 
+ Keep all doors closed during operation. 
+ 
+3.3.1 Checking the display (2-Fig. 3.4) 
+ 
+1. Daily check the display for readings and message s.  Normally, the main screen (Fig. 1.11) is 
+shown, indicating the compressor outlet pressu re, the status of the compressor and the 
+functions of the keys below the display. 
+2. Always check the display and remedy the trouble if alarm LED (7) is alight or blinks.  Consult 
+section 1.8. 
+3. The display will show a service message if a service plan interval has been exceeded or if a 
+service level for a monitored component has been exceeded.  Carry out the service actions of 
+the indicated plans or replace the component and re set the relevant timer.  Consult your Atlas 
+Copco Customer Centre.  See also section 4.1. 
+4. Regularly check the actual co mpressor status by pressing the ↓ key from the main screen. 
+ 
+Warning 
+Before starting any ma intenance or repairs: 
+- Stop the compressor and close the air outlet valve. 
+- Press the test buttons (Fig. 1.8) on top of  t he electronic water drains to depressurize the air 
+system and open the drain valve (1-Fig. 3.5). If an IMD dryer is installed, open drain valve (8-
+Fig. 1.5).  
+- Open the isolating switch (customer's installati on) to switch off the voltage to the compressor. 
+Apply all relevant safety precautions, including those mentioned in this book. 
+--- Now onto the next source
+[zr55.pdf, page 117]Period Running hours Operation
+Yearly -- On compressors with Low Load option, check
+nozzle and solenoid valve of the purge assembly.
+2-yearly 16000 Replace the demister sponge of the integrated
+dryer.
+When displayed -- Carry out the service actions according to the
+displayed service plans.
+6.3 Service kits
+Service kits
+Atlas Copco Customer Centres will be glad to provide you with a wide range of service kits. Service kits
+comprise all parts needed for servicing components and offer the benefits of genuine Atlas Copco parts while
+keeping the maintenance budget low. All service kits are mentioned in the relevant Parts Lists.
+6.4 Service agreements
+Atlas Copco Customer Centres have a range of service agreements to suit your needs:
+• An Inspection plan.
+• A Preventive maintenance plan.
+• A Total responsibility plan.
+Contact your Customer Centre to agree on a tailor-made service agreement. It will ensure optimum operational
+efficiency, minimize downtime and reduce the total life cycle costs.
+6.5 Service plan
+A number of service operations are grouped (called Level A, Level B, Level C, ...). Each level stands for a
+number of service actions to be carried out at the time intervals programmed in the Elektronikon regulator.
+When reaching a level, a message will appear on the screen. After carrying out all service actions, the interval
+timers are to be reset using the key "Reset" in menu "Service". Consult your Atlas Copco Customer Centre.
+6.6 Motor greasing
+Fan motor of ZT compressors
+The bearings of the fan motor are greased for life. Contact your Customer Centre for the replacement interval
+of the motor bearings.
+Instruction book
+116
+--- Now onto the next source
+[125200.pdf, page 45]5.8 CAPACITY CONTROL (Continued)
+MODULATION/ACS CONTROL (Continued)
+The automatic control selector (ACS) is designed tocontinuously monitor the plant air demand and selecteither the on-off line, or the modulate control mode -whichever is most desirable at any time during anoperating day.
+It allows the compressor to operate in its most efficient
+mode without attendance, thereby reducing power coststo a minimum.
+When the compressor operates in the on-off line control
+mode, the length of time the compressor remains in the“off line”condition is an indication of the plant airdemand.Intellisys controller is sensing and awaiting asufficient line pressure decrease before signaling a shiftto the on line mode.If the “off line”time period isrelatively short, thereby indicating a high demand for air,it is preferable to shift the control system to upper rangemodulation.
+The Intellisys does this, and does it automatically if the
+compressor unloads 3 times within a 3 minute timeperiod.
+If later, the plant demand decreases, and even under
+modulate control the line pressure reaches the setting ofthe Intellisys controller and the control shifts to the “offline”mode, the time in this mode will still be monitored.Along “off line”time period indicates a low plant airdemand, indicating the desirability of operating in theon-off line mode.
+The Intellisys then does this, and does it automatically if
+the compressor operates unloaded for more than 3minutes.
+MODULATION ONLY
+If MODULATION ONLY is turned on in the set pointroutine, the unit will shift to Modulation control modeimmediately when the unit is running. The 3 cycles within3 minutes time period required for ACS to change toModulation mode is bypassed.The unit will stay inModulation mode until the UNLOAD  button is pressed orthe Mode of Operation set point is changed.
+435.9 AUTOMATIC START/STOP CONTROLMany plant air systems have widely varying air demandsor large air storage capacity which allows for automaticstandby air capacity control.
+During periods of low air demand, if the line pressure
+rises to the upper set point, the Intellisys begins to timeout.If the line pressure remains above the lower set pointfor as long as the set time, the compressor will stop.Atthe same time the display will indicate the compressorhas shut down automatically and will restartautomatically.An automatic restart will occur when theline pressure drops to the lower set point.
+The upper and lower set points and shutdown delay time
+are set on the Intellisys control panel.There is a 10second delay after shutdown during which thecompressor will not restart even if line air pressure dropsbelow the lower set point.This is to allow the motor tocome to a complete stop and the Intellisys controller tocollect current data of operating condition.If line airpressure is below the lower set point at the end of 10seconds, the unit will start unless the load delay timer isset greater than 10 seconds.
+Auto Restart Delay
+This is the number of seconds the line pressure mustremain below the online set point before the compressorwill start if it was stopped due to an auto start/stopsituation.This timer will not delay an auto restart if thetime is set to 0.
+Automatic Start/Stop Operation
+When in operation, the compressor must meet twospecific timing intervals before the Intellisys controller willstop the unit in an Automatic Start/Stop situation.
+For this discussion, the timers will be called timer “A”and
+timer “B”.
+FIRST
+Timer “A”prevents the compressor from automaticallystarting more than 6 times an hour by requiring the unitto run at least 10 minutes after each automatic start.
+This 10 minute run period can be loaded, unloaded or a
+combination of the two and allows dissipation of heatgenerated within the motor windings at start.
+--- Now onto the next source
+[cas2545.pdf, page 36] 34 IMT CAS2545 Air Compressor Manual Part No. 99904145 
+ 
+e Check the rotation. The correct rotation direct ion is counterclockwise, as shown on the 
+compressor.  Incorrect rotation for more than two seconds may result in compressor damage. 
+WARNING  
+This compressor produces loud noise.  Extended exposure to loud noise can cause hearing 
+loss.  Wear hearing protection when operating. 
+Use the relay module, visible through the compressor front panel grill, to determine if the 
+compressor is operating normally.  The enable  and power indicator lights will light.  When the 
+compressor oil temperature reaches 180° F, the fan indicator light will turn on, indicating that the 
+fan is running.  Once the fan starts to run, it will "latch" on and continue to run until the compressor is turned off. 
+Do not run the compressor for less than 15-minute increments.  Short run times will increase 
+water / moisture content in the compressor system.  Water and moisture will adversely affect the 
+life of the compressor. 
+CAUTION  
+Operating this unit in excess of 8500 rpm will void the warranty and will shorten the normal 
+service life of the compressor. 
+Compressor Shut-Down  
+a Turn off the compressor using the power switch. 
+b Disengage the hydraulic pump / PTO. 
+c Once the drive motor stops, the compressor will purge itself of air.  This "blowdown cycle" 
+typically requires approximately 45 seconds. It will not purge the reservoir tank, but only 
+the compressor unit.  During the blowdown cycle, the compressor will not restart if turned 
+on.  If the power switch is turned on, the compressor will not restart until the blowdown 
+cycle is complete. 
+d If the compressor is mounted on a vehicle, and the vehicle needs to be moved, work is 
+completed for the day, or the compressor needs maintenance, you must relieve all pressure from the system.  Turn off the compressor normally and allow the blowdown 
+cycle to complete.  Then, drain all air using the service valve located on the truck.  Close 
+the valve once the air release is complete. 
+WARNING  
+Federal law prohibits moving a compressor without first releasing all air.   
+ Downloaded from www.Manualslib.com  manuals search engine  
+--- Now onto the next source
+[zr55.pdf, page 111]5.5 During operation
+Control panel
+Procedure
+When automatic operation LED (1) is alight, the Elektronikon regulator is automatically controlling the
+compressor: the air delivery is matched to the air consumption, the compressor will start and stop whenever
+necessary.
+Avoid short compressor loading periods (minimum 50% load) and operation at very low working pressures
+as otherwise the performance of the dryer will diminish. Avoid operation at too low a regeneration air
+temperature (minimum 130˚C /266˚F)
+Keep all doors closed during operation.
+Instruction book
+110

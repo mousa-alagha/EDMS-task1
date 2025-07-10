@@ -1,0 +1,109 @@
+[zr55.pdf, page 116]6 Maintenance
+6.1 Maintenance warnings
+Warnings
+Before starting any maintenance or repairs:
+•Stop the compressor. Close the air outlet valve.
+•Press the test buttons on top of the electronic water drains to depressurize the air
+system.
+•Press the emergency stop button (S2).
+•Open the isolating switch (customer's installation) to switch off the voltage to the
+compressor.
+Warranty-Product Liability
+Use only Atlas Copco authorized genuine parts. Any damage or malfunction caused by the use of unauthorized
+parts is not covered by Warranty or Product Liability.
+6.2 Preventive maintenance schedule
+Regular service operations
+To ensure safe operation and long service life, carry out following operations at the interval (period or running
+hours) which comes first. The "longer interval" checks must also include the "shorter interval" checks.
+The local Atlas Copco Customer Centre may overrule the maintenance schedule depending on the
+environmental and working conditions of the compressor.
+Period Running hours Operation
+-- At initial start Check the pressure differential of the rotor
+compartments of the integrated dryer. Adjust if
+necessary.
+Daily 8 Check readings on display.
+Daily 8 Check that condensate is discharged during
+loading.
+Daily -- Check oil level. Before starting, the level should be
+in the middle of the sight-glass.
+Weekly 50 Check that the moisture indicator of the integrated
+dryer shows blue.
+Monthly -- On Full-Feature ND compressors and Full-Feature
+compressors with Low load option, check that air is
+purged from the low load system. Clean nozzle if
+necessary.
+3-monthly -- Clean compressor.
+3-monthly -- Check for possible leaks.
+3-monthly 500 Check coolers, clean if necessary.Instruction book
+115
+---
+[srl_series.pdf, page 27]When the maintenance or overhaul time arises, the digital display will show the following messages: 
+“A.nnT”  or “A.OH”  (please see page 30 for message indication) and the maintenance alarm light will 
+illuminate. Press the Screen Shift Switch and check whether the air compressor package or Scroll 
+Head requires maintenance or an overhaul. The operation time of the components that are in need of 
+maintenance or overhaul will flash in red.
+Note: There may be instances where both air compressor package and the Scroll Head require maintenance.
+● The Maintenance Alarm Light will illuminate for the air compressor package every 2,500 hours. 
+    (the same for both 122 & 145 psig models).
+● Maintenance Alarm Light will light for the Scroll Head at the hours detailed below:
+                       122PSIG model :　9,500 hours
+                       145PSIG model :　4,500 hours
+     and the overhaul warning:
+　　　　　　　  122PSIG model :   19,000 - 19,500 hours
+　　　　　　　  145PSIG model :   9,000 - 9,500 hoursMaintenance and Inspection (continued)
+ ● The inside of the air compressor may be extremely hot right after the operation. Therefore, wait at least
+     30 minutes before performing the maintenance and inspection.
+  ● Operating the air compressor continuously without performing maintenance and inspection may       result  in serious accidents and/or damage to the air compressor.
+ ● Turn off the main power supply and vent the pressurized air in the air compressor prior to performing
+     any maintenance or inspections. This will prevent electric shock and/or personal injury.
+ ● The maintenance and inspection schedule is not guaranteed and is designed for normal operating
+     conditions. The maintenance and inspection schedule may change, depending on the operating
+     conditions. (temperature, humidity, high dust, etc.). If the operating conditions are severe, use a more     frequent maintenance and inspection time interval to prevent accidents and/or damage to the air
+     compressor.
+ ● If the operating conditions cause the air compressor to operate in excessive temperatures, perform
+     maintenance and inspection more frequently. ● Do not disassemble the scroll head. Disassembling the scroll head may lead to air compressor failure
+     and/or accidents.
+WARNING
+23● Be sure to perform all maintenance and overhauls according to the maintenance schedule. Contact 
+    the local Hitachi distributor, in order to reset the warning.
+CAUTIONMaintenance Period Notification
+EX. Pressure 
+IndicationMaintenance
+IndicationAlternately
+flashes
+Overhaul Period Notification
+EX. Pressure
+IndicationOverhaul
+IndicationAlternately
+flashes
+
+---
+[zr55.pdf, page 112]Step Action
+1 Daily check the display (2) for readings and messages. Normally, the main screen is shown
+(see below), indicating the compressor outlet pressure, the status of the compressor and
+the functions of the keys below the display.
+2 Always check the display and remedy the trouble if alarm LED (3) is alight or blinks. See
+“Elektronikon control system” .
+3 The display will show a service message if a service plan interval has been exceeded or
+if a service level for a monitored component has been exceeded. Carry out the service
+actions of the indicated plans or replace the component and reset the relevant timer.
+Consult your Atlas Copco Customer Centre.
+See also “Preventive maintenance schedule” .
+4 Regularly check the actual compressor status by pressing the down key from the main
+screen.
+•Before starting any maintenance or repairs, stop the compressor, wait until it has
+stopped.
+•Close the air outlet valve and press the test buttons on top of the electronic water
+drains to depressurize the air system.
+•Open the isolating switch (customer's installation) to switch off the voltage to the
+compressor.
+Example of the main screen
+Compressor Outlet  7.0 bar  
+    
+Automatically Loaded   
+Menu  Unload  
+F1 F2 F3  
+5.6 Stopping
+Control panel
+Instruction book
+111

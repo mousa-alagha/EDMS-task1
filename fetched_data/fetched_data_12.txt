@@ -1,0 +1,87 @@
+[zr55.pdf, page 130]9.6 Compressor data
+ZR - 7.5 bar - 50Hz
+ Unit ZR55 ZR75 ZR90
+Nominal working pressure bar 7 7 7
+Nominal working pressure psi 101.53 101.53 101.53
+Maximum working pressure, ZR Pack bar 7.5 7.5 7.5
+Maximum working pressure, ZR Pack psi 108.78 108.78 108.78
+Maximum working pressure, ZR Full-
+Featurebar 7.25 7.25 7.25
+Maximum working pressure, ZR Full-
+Featurepsi 105.15 105.15 105.15
+Power input at maximum working pressure,
+ZR PackkW 62.3 81.3 95.1
+Power input at maximum working pressure,
+ZR Packhp 83.54 109.02 127.53
+Power input at maximum working pressure,
+ZR Full-FeaturekW 61.3 80.8 94.4
+Power input at maximum working pressure,
+ZR Full-Featurehp 82.2 108.35 126.59
+Oil capacity l 35 35 35
+Oil capacity Us gal 9.24 9.24 9.24
+Oil capacity Imp gal 7.70 7.70 7.70
+Oil capacity cu.ft 1.23 1.23 1.23
+Cooling water consumption at temperature
+rise of 15 ˚C, ZR Packl/s 0.9 1.2 1.4
+Cooling water consumption at temperature
+rise of 27 ˚F, ZR Packl/s 0.9 1.2 1.4
+Cooling water consumption at temperature
+rise of 15 ˚C, ZR Packcfm 1.91 2.54 2.96
+Cooling water consumption at temperature
+rise of 27 ˚F, ZR Packcfm 1.91 2.54 2.96
+Cooling water consumption at temperature
+rise of 15 ˚C, ZR Full-Featurel/s 1.4 1.8 2.1
+Cooling water consumption at temperature
+rise of 27 ˚F, ZR Full-Featurel/s 1.4 1.8 2.1
+Cooling water consumption at temperature
+rise of 15 ˚C, ZR Full-Featurecfm 2.96 3.81 4.45Instruction book
+129
+---
+[zr55.pdf, page 134]Instruction book
+133ZT - 8.6 bar - 50Hz
+ Unit ZT55 ZT75 ZT90
+Nominal working pressure bar 8 8 8
+Nominal working pressure psi 116.03 116.03 116.03
+Maximum working pressure, ZT Pack bar 8.6 8.6 8.6
+Maximum working pressure, ZT Pack psi 124.73 124.73 124.73
+Maximum working pressure, ZT Full-
+Featurebar 8.35 8.35 8.35
+Maximum working pressure, ZT Full-
+Featurepsi 121.11 121.11 121.11
+Power input at maximum working pressure,
+ZT PackkW 64.1 88.3 103.7
+Power input at maximum working pressure,
+ZT Packhp 85.96 118.41 139.06
+Power input at maximum working pressure,
+ZT Full-FeaturekW 65.1 89.2 104.4
+Power input at maximum working pressure,
+ZT Full-Featurehp 87.3 119.62 140.0
+Oil capacity l 45 45 45
+Oil capacity Us gal 11.88 11.88 11.88
+Oil capacity Imp gal 9.90 9.90 9.90
+Oil capacity cu.ft 1.58 1.58 1.58
+ZT - 10 bar - 50Hz
+ Unit ZT55 ZT75 ZT90
+Nominal working pressure bar 9 9 9
+Nominal working pressure psi 130.54 130.54 130.54
+Maximum working pressure, ZT Pack bar 10 10 10
+Maximum working pressure, ZT Pack psi 145.04 145.04 145.04
+Maximum working pressure, ZT Full-
+Featurebar 9.75 9.75 9.75
+Maximum working pressure, ZT Full-
+Featurepsi 141.41 141.41 141.41
+Power input at maximum working pressure,
+ZT PackkW 63.9 89.0 104.7
+Power input at maximum working pressure,
+ZT Packhp 85.69 119.35 140.4
+---
+[zr55.pdf, page 135]Instruction book
+134 Unit ZT55 ZT75 ZT90
+Power input at maximum working pressure,
+ZT Full-FeaturekW 64.9 89.8 105.5
+Power input at maximum working pressure,
+ZT Full-Featurehp 87.03 120.42 141.48
+Oil capacity l 45 45 45
+Oil capacity Us gal 11.88 11.88 11.88
+Oil capacity Imp gal 9.90 9.90 9.90
+Oil capacity cu.ft 1.58 1.58 1.58

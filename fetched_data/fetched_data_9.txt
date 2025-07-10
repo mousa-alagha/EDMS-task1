@@ -1,0 +1,245 @@
+[zr55.pdf, page 53]A shut-down message exists
+• In case the compressor is shut down, LED (1) will blink.
+• In case of a shut-down due to too high a temperature at the outlet of the compressor element:
+“Element Outlet” 114˚C
+.    
+“Shutdown” “Maximum” 110˚C
+“Menu”*** “Help” ***”Reset”
+F1 F2 F3
+• The indicators (***) are blinking. The screen shows the actual reading and the shut-down setting.
+• It remains possible to scroll through other menus, e.g. to check the values of other parameters.
+When returning to the “Status Data” menu, the option “Shutdowns” will blink. This option can be selected
+by pressing the tabulator key (2) to return to the above shut-down screen.
+Shut-down reset
+• Switch off the voltage and remedy the trouble. After remedying and when the shut-down condition has
+disappeared, switch on the voltage and press the key “Reset” (F3).
+•Press the keys “Menu” and “Mainscreen” to return to the Main screen and restart the compressor by means
+of start button (3).
+A shut-down warning message exists
+A shut-down warning level is a programmable level below the shut-down level.
+•If a shut-down warning exists, LED (1) is alight. The Main screen will change into a screen similar to the
+one below:
+“Compressor Outlet” 7.0 bar
+.
+*** “Shutdown Warning” ***
+“Menu”*** ***”Unload”
+F1 F2 F3
+• The message “Shutdown Warning” appears.
+• Press the key “Menu” (F1) and the tabulator key (2) to select the “Status data” menu; the option
+“Protection” is blinking.
+• Scroll to this option and select it by pressing the tabulator key (2). A screen similar to the one below
+appears:
+“Element 1 Outlet” 103˚C
+.
+“Shutd. Warn.” “Maximum” 100˚C
+“Menu”*** ***
+F1 F2 F3
+Instruction book
+52
+---
+[zr55.pdf, page 52]3.9 Status data menu
+Warning
+Before starting any maintenance or repairs, press the stop button (4), wait until the
+compressor has stopped, press the red emergency stop button and open the isolating
+switch (customer's installation) to switch off the voltage to the compressor.
+ Close the air outlet valve and depressurize the air system.
+Function
+Control panel
+The Status data submenu gives information regarding the status of the compressor protection functions (shut-
+down, shut-down warning and service warning) and allows resetting of a shut-down, motor overload and
+service condition.
+Procedure
+Starting from the Main screen (see Main screen menu ):
+• Press the key “Menu” (F1): the option “Status Data” will be followed by a horizontal arrow.
+• Press the tabulator key (2).
+No message exists
+•General alarm LED (1) is out and the message on the display will indicate that all conditions are normal:
+“All Conditions Are OK”
+.
+.
+“Menu” “Help”
+F1 F2 F3Instruction book
+51
+---
+[zr55.pdf, page 69]The “Reset” button only appears when the “Next Timer” level is almost reached.
+ After pressing the arrow down key in the “Service Timer” screen, the “Life Time” hours are
+shown, i.e. the number of hours elapsed since initial programming ex-factory. This timer is
+not taken into account.
+3.21 Saved data menu
+Control panel
+Function
+To call up some data saved by the regulator. These data are:
+• Last shut-down data
+• Last emergency stop data
+Procedure
+Starting from the Main screen (see Main screen menu ):
+• Press the key “Menu” (F1).
+• Press the arrow down key (1) until “Saved Data” is followed by a horizontal arrow.
+• Activate the menu by pressing the tabulator key (2).
+• The first option is shown “Last shutdown 1”.
+•Press the tabulator key (2) to find out the date, time and other data reflecting the status of the compressor
+at the last shut-down.
+• If desired, scroll through the other items.
+Instruction book
+68
+---
+[zr55.pdf, page 60]Procedure
+Starting from the Main screen (see Main screen menu ):
+• Press the “Menu” (F1) key.
+• Press the arrow down key (1) until “Modify parameters” is followed by a horizontal arrow.
+• Activate the menu by pressing the tabulator key (2).
+• Press the arrow down key (1) until “Protections” is followed by a horizontal arrow.
+• Press the tabulator key (2): the first items will appear.
+• Press the arrow down key (1) until the item to be modified is followed by a horizontal arrow and press
+the tabulator key (2).
+Modifying settings for the compressor element temperature
+• Consult the section Procedure above to select the parameter “Element 1 outlet”.
+•The screen (see example below) shows the current temperature on the first line and the shut-down setting
+on the third line. To modify the setting, press the “Modify” (F2) key; the setting will flash.
+• The “Limits” (F2) key can be used to find out the limits for the parameter.
+• Use the scroll keys (1) to change the setting.
+• Press ”Program” (F1) to program the new value or “Cancel” (F3) to cancel the modification operation.
+• The screen (see example below) shows a horizontal arrow indicating that the shut-down warning value
+can be modified (the procedure is similar to the description above).
+• The procedure to modify other items is similar. For some settings, a delay can be programmed.
+Example of the screen for ZR/ZT compressors
+“Element 1 outlet” 178˚C
+“Shutdown” “Maximum” 235˚C
+“Menu” “Modify”
+F1 F2 F3
+The regulator will not accept new values beyond the limits. Press the key “Limits” to check
+the limits for the parameter. Consult Programmable settings  for the most important settings.
+3.17 Modifying service plans
+Function
+To modify the hour intervals for the service levels.
+Service plans
+The service actions to be carried out are grouped in plans called Service level A, B, C or D. When reaching
+an interval, a message will appear on the screen indicating which Service plans are to be carried out.Instruction book
+59
+---
+[zr55.pdf, page 44]Several sensors are provided on the compressor. If one of these measurements exceeds the programmed shut-
+down level, the compressor will be stopped. This will be indicated on display (1) and general alarm LED (2)
+will blink.
+Remedy the trouble and reset the message. See also the Status data menu.
+Before remedying, consult the Safety precautions.
+Shut-down warning
+A shut-down warning level is a programmable level below the shut-down level.
+If one of the measurements exceeds the programmed shut-down warning level, a message will appear on
+display (1) and general alarm LED (2) will light up, to warn the operator that the shut-down warning level is
+exceeded.
+The message disappears as soon as the warning condition disappears.
+Service warning
+A number of service operations are grouped (called Level A, B, C, ...). Each level has a programmed time
+interval. If a time interval is exceeded, a message will appear on display (1) to warn the operator to carry out
+the service actions belonging to that level.
+Automatic restart after voltage failure
+The regulator has a built-in function to automatically restart the compressor if the voltage is restored after
+voltage failure. For compressors leaving the factory, this function is made inactive. If desired, the function
+can be activated. Consult the Atlas Copco Customer Centre.
+If activated and provided the regulator was in the automatic operation mode, the
+compressor will automatically restart if the supply voltage to the module is restored within
+a programmed time period.
+The power recovery time (the period within which the voltage must be restored to have an
+automatic restart) can be set between 1 and 3600 seconds or to “Infinite”. If the power
+recovery time is set to “Infinite”, the compressor will always restart after a voltage failure,
+no matter how long it takes to restore the voltage. A restart delay can also be programmed,
+allowing e.g. two compressors to be restarted one after the other.Instruction book
+43
+---
+[zr55.pdf, page 51]• Either press the tabulator key (2) to select this menu,
+•or use the arrow down key (1) until the desired submenu is followed by a horizontal arrow and then press
+the tabulator key (2) to select this menu.
+The arrow down key (1) can be used for a quick look at the actual compressor status.
+3.8 Main screen menu
+Function
+Control panel
+The Main screen menu shows the status of the compressor operation and is the gateway to all functions
+implemented in the regulator.
+Procedure
+The Main screen is shown automatically when the voltage is switched on.
+If the function or arrow keys (1, 2 and 3) are not used for some minutes, the regulator will automatically return
+to the Main screen.
+Whenever displayed on a submenu screen, press the “Mainscreen” (F1) key to return to the Main screen.
+Example of Main screen of ZR/ZT 55 up to ZR/ZT 90
+“Compressor Outlet” 7.5 bar
+.
+“Automatically Loaded”
+“Menu” “Unload”
+F1 F2 F3
+The display indicates:
+• The name of the sensor and its actual reading
+• Messages regarding the compressor operating condition
+• Just above the function keys (3), the actual functions of these keys
+Instruction book
+50
+---
+[zr55.pdf, page 22]Flow diagram, ZR Full-Feature ND and ZR Full-Feature with Low Load option
+Instruction book
+21
+---
+[zr55.pdf, page 55]Function
+To call up information regarding the actually measured data and the status of some inputs such as the motor
+overload protection. Consult the menu flow in section Control programs.
+Procedure
+Starting from the Main screen (see Main screen menu ):
+• Press the key “Menu” (F1).
+• Press the arrow down key (1) until “Measured Data” is followed by a horizontal arrow.
+• Activate the menu by pressing the tabulator key (2).
+• By pressing the scroll keys (1), a number of actually measured data can be found.
+• If one of the sensors is linked to a shut-down, service or warning function, both the actually measured
+value as well as the corresponding shut-down, warning or service level can be called up by pressing key
+(2).
+3.11 Counters menu
+Control panel
+Function
+To call up:
+• The running hours
+• The loaded hours
+• The number of motor starts
+• The number of hours the regulator (module) has been under tension
+• The number of load cycles
+Procedure
+Starting from the Main screen (see Main screen menu ):
+• Press the key “Menu” (F1).
+• Press the arrow down key (1) until “Counters” is followed by a horizontal arrow.
+• Press the tabulator key (2) to activate the menu.
+• By pressing the arrow key (1), the above-mentioned data can be found.
+Instruction book
+54
+---
+[zr55.pdf, page 49]Menu flow for ZR/ZT 55 up to ZR/ZT 90 (simplified)
+Main menu
+Program Function
+Main screen Shows in short the operation status of the compressor. Is the gateway to all
+functions.
+“Status data” Calls up the status of the compressor protection functions (shut-down, shut-down
+warning, service warning and warning). Resets a shut-down, motor overload and
+service condition.
+Instruction book
+48
+---
+[125200.pdf, page 50]487.0 OTIONS
+7.1 POWER OUTAGE RESTART OPTION
+For customers that have interruptions in their incomingpower supply to the compressor and must maintain anuninterrupted supply of compressed air, the PowerOutage Restart Option allows an Intellisyscompressor torestart automatically 10-120 seconds (adjustable) afterincoming power is restored.
+The Power Outage Restart Option is turned on by
+plugging in the required option module and enabling itthru the OPTION’S set point routine.The restart timedelay, which is adjustable from 10-600 seconds, can alsobe adjusted while in the option’s set routine on theIntellisys controller.Any time power is restored to thecompressor after a power interruption, a horn located onthe side of the starter box will sound during the restarttime delay (10-600 seconds), after which the compressorwill automatically start.After starting, the compressor willreturn to the mode of operation that the compressor wasin prior to the power interruption.
+This option may be factory installed or a field installation
+kit is available.
+7.2 SEQUENCER
+The sequencer option is turned on by enabling it throughthe OPTIONS set point routine.Enabling thisoption will allow the compressor to be controlled by anexternal device, such as an ISC or sequencer, usingthe communications port (P7) on the Intellisys.
+7.3 LOW AMBIENT
+The lowambient option is turned on by enabling it throughthe OPTIONS set point routine.Also temperature sensor,3CTT, is added to the compressor and connected at P6-7& 8 on the Intellisys.The options set point, minimumcooler out temperature, is set to the minimum temperatureat which the unit can load.When this option is enabled,the compressor, after being started, will not load until theIntellisys reads a temperature from 3CTT at or higherthan the value of the minimum cooler out temperature setpoint.If this option is enabled without installing 3CTT,
+a SENSOR FAILURE 3CTT alarm will occur.
+7.4 SEPARATOR DELTA-P SOLENOID
+The separator delta-p solenoid option is turned on byenabling it through the OPTIONS set point routine.When this option is enabled, the Intellisys will measurethe pressure drop across the separator element byfirst reading the wet side sump pressure.Next theIntellisys will momentarily energize solenoid that willswitch the dry side sump pressure to the sump pressuresensor (3APT).The Intellisys will then read the dryside sump pressure and subtract it from the wet sidesump pressure to measure the pressure drop across theseparator element. Do not enable this option if the
+separator delta-p solenoid is not installed.This willresult in an incorrect measurement of the pressuredrop across the separator element.
+7.5 SEPARATOR   DELTA-P SENSOR
+The separator delta-p sensor option is turned on byenabling it through the OPTIONS set point routine.When this option is enabled, the Intellisys will measurethe pressure drop across the separator element bysubtracting the dry side sump pressure (6APT) from thewet side sump pressure (3APT). Do not enable this
+option if the separator delta-p sensor is not installed.This will result in an incorrect measurement of thepressure drop across the separator element and a6APT sensor failure warning.
+7.6 HIGH DUST FILTER
+The high dust filter option is turned on by enabling itthrough the OPTIONS set point routine.If this optionis enabled, the Intellisys;will change its measurement ofthe inlet filter. Do not enable this option unless a high
+dust filter is installed.
+7.7 LEAD/LAG CYCLE LENGTH
+The lead/lag cycle length option allows the Intellisys toautomatically switch the online and offline pressuresettingsto the lead or lag values after a programmednumber of hours.This option is enabled by selecting anumber of hours greater than 0 in the OPTIONS set pointroutine.
+7.8 SCHEDULEDSTART/STOP
+The scheduled start/stop option allows the customer toautomatically start and stop the compressor once eachday, based on the real time clock.This is an installedoption and is enabled by selecting a scheduled start andscheduled stop time.Setting the scheduled start andscheduled stop times to the same value will disable thisoption.

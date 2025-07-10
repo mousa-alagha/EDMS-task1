@@ -1,0 +1,134 @@
+[g20.pdf, page 17]G2030-II-C 
+Mar ‘17 
+ - 17 -Common Compressor Faults  
+ 
+Common Faults. 
+Noted below are the most common Faults experienced. 
+ 
+‘CSC300’ Alarms. 
+There is an issue with the Unit, but it will still operate. 
+ 
+Code: Description: Most Common Items to Check: 
+A:0083 Motor phase imbalance Check supply voltage, fuses and cable 
+A:0119 Delivery Pressure High Solenoid not working, Intake Valve Orifice cl ogged, Transducer dirty or faulty, pressure changed 
+incorrectly, alternate external pressure source 
+A:0129 Delivery Temperature High Ambient temp high, Unit dirty, low oil level, no air flow through Unit, Temp Sensor defective 
+A:2816 Power Failure Occurred Press ‘Reset’ Button and restart Unit 
+A:4819 Routine Service Due Service Unit and re set Service Timer (Page ‘P16’ on Controller) 
+A:4809 Grease Service Due Service motor and reset Grease Service Timer (Page ‘P16’ on Controller) 
+ 
+‘CSC300’ Shutdown Errors. 
+There is an issue with the Unit, and the Unit will not operate until the Fault has been addressed. 
+ 
+Code: Description: Most Common Items to Check: 
+E:0010 Emergency Emergency stop switch is pressed 
+E:0070 Fan Motor Alarm Che ck electrical connections 
+E:0082 Motor Overload Motor drawing high amps, lo w voltage, high pressure settings, low oil level 
+E:0083 Motor phase Imbalance Check motor connecti ons in the control panel and motor connection box 
+E:0090 Phase Sequence Rotation of Motor wrong, sequence order of supply cable incorrect 
+E:0091-
+0093 Phase L1/L2/L3 Fault Check supply voltage, fuses and cable 
+E:0115 Delivery Pressure Sensor Fault Transducer not making good electrical contact, or defective 
+E:0119 Delivery Pressure High Solenoid Not working, Intake Valve Orifice clogged, Transducer dirty or faulty, pressure 
+changed incorrectly, alternate external pressure source 
+E:0125 Delivery Temp Sensor Fault Temperature Sens or not making good electrical  contact, or defective 
+E:0129 Delivery Temperature High Ambient temp high, Unit dirty, low oil level, no air flow through Unit, Temp Sensor defective 
+E:0902 Anti-Rotation Rotation of Main Motor wrong, Solenoid Valve not relieving pressure 
+E:1902 Inverter Fault Variable frequency drive tripped.  Check VFD screen for more info. 
+ 
+ 
+ 
+  
+ 
+ Downloaded from www.Manualslib.com  manuals search engine  
+---
+[g20.pdf, page 4]G2030-II-C 
+Mar ‘17 
+ - 4 -
+Quick Start (cont’d) 
+ 
+Unit Operation. 
+ 
+Shown below is the ‘CSC300’ Controller which regulates t he operation of the Unit. It is used to start and stop the 
+Unit, and it provides information as to  system pressure, temperature, etc. 
+ 
+Starting the Unit:  Press the ‘ Start ’ Button. 
+ Stopping the Unit:  Press the ‘ Stop ’ Button 
+ Note: 
+1. Do not stop the Unit using the ‘Emergency Stop’ Button unless there is a danger to the product or of 
+personnel injury. 
+2. Do not stop the Unit by us e of a disconnect or breaker. 
+ 
+  
+ 
+  
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+ 
+ 
+Using the Emergency Stop Button, disconnect, or breaker to stop the Unit will not allow the Unit to go through an unloading sequence, and could result in damage to the Motor, Starter, or other electrical components. Damage caused in this manner 
+is not covered by the manufacturers Warranty. 
+ 
+Enter, Up, Down & Escape. 
+Used in the programming and changing 
+of operating parameters of the Unit. Emergency Stop. 
+Will quickly shut the Unit off. Is only to be used in an 
+emergency. 
+Digital Readout. 
+Indicates Unit pressure, 
+temperature, etc. Stop. 
+Causes the Unit to enter ‘Idle’ mode and then shut off. Start. 
+Starts the Unit. Downloaded from www.Manualslib.com  manuals search engine  
+---
+[zr55.pdf, page 44]Several sensors are provided on the compressor. If one of these measurements exceeds the programmed shut-
+down level, the compressor will be stopped. This will be indicated on display (1) and general alarm LED (2)
+will blink.
+Remedy the trouble and reset the message. See also the Status data menu.
+Before remedying, consult the Safety precautions.
+Shut-down warning
+A shut-down warning level is a programmable level below the shut-down level.
+If one of the measurements exceeds the programmed shut-down warning level, a message will appear on
+display (1) and general alarm LED (2) will light up, to warn the operator that the shut-down warning level is
+exceeded.
+The message disappears as soon as the warning condition disappears.
+Service warning
+A number of service operations are grouped (called Level A, B, C, ...). Each level has a programmed time
+interval. If a time interval is exceeded, a message will appear on display (1) to warn the operator to carry out
+the service actions belonging to that level.
+Automatic restart after voltage failure
+The regulator has a built-in function to automatically restart the compressor if the voltage is restored after
+voltage failure. For compressors leaving the factory, this function is made inactive. If desired, the function
+can be activated. Consult the Atlas Copco Customer Centre.
+If activated and provided the regulator was in the automatic operation mode, the
+compressor will automatically restart if the supply voltage to the module is restored within
+a programmed time period.
+The power recovery time (the period within which the voltage must be restored to have an
+automatic restart) can be set between 1 and 3600 seconds or to “Infinite”. If the power
+recovery time is set to “Infinite”, the compressor will always restart after a voltage failure,
+no matter how long it takes to restore the voltage. A restart delay can also be programmed,
+allowing e.g. two compressors to be restarted one after the other.Instruction book
+43
