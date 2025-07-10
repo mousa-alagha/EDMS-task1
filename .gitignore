@@ -2,3 +2,4 @@
 .venv
 .idea/
 doc_search_crew
+.env
