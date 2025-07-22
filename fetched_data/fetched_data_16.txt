@@ -1,0 +1,151 @@
+[cas2545.pdf, page 31]  29 
+ 
+Compressor Terminology 
+AIR/OIL 
+COALESCER Performs second stage separation of oil from compressed air feeding tools.  
+Sometimes referred to as the separator cartridge or purifier cartridge. 
+CFM Refers to the volume of compressed air being produced expressed as cubic 
+feet of air per minute. 
+SPEED CONTROL Sometimes referred to as the engine speed control 
+OIL SUMP The first stage of oil separation from  compressed air.  Also serves as reservoir 
+area for compressor lubricant, measured in rpm (revolutions per minute). 
+PSI Refers to the operating pressure the system is set up at, expressed as pounds 
+per square inch. 
+PRESSURE RELIEF 
+VALVE A valve located on the oil sump which opens in case of excessive pressure.  
+Sometimes referred to as the pop-off valve or the check valve. 
+HI-TEMP SHUTDOWN 
+SWITCH Works in conjunction with a power relay, sending a signal to stop the 
+compressor power source in cases of high compressor oil temperature. 
+ 
+  SECTION 3 
+Operation Downloaded from www.Manualslib.com  manuals search engine  
+---
+[zt_series.pdf, page 47]Instruction book 
+2920 1472 03  47 29. Open drain valve (8-Fig. 1.5). 
+ 
+ 
+  
+ 
+  
+ 
+  
+ 
+Co Oil cooler Dmo Oil drain valve, gear casing 
+FC Oil filler cap 
+OF Oil filter SG Oil level sight-glass 
+1 Arrow, indicating correct rotation 
+direction of drive motor 
+ 
+Fig. 3.3  Oil system components 
+ 
+ 
+ 
+ 1 Start button 
+2 Display 
+3 Scroll keys 4 Tabulator key 
+5 Function keys 6 Voltage on LED 
+7 General alarm LED 
+8 Automatic operation LED 9 Stop button 
+S3 Emergency stop button 
+ Fig. 3.4  Control panel 
+ 
+ 
+---
+[g20.pdf, page 10]G2030-II-C 
+Mar ‘17 
+ - 10 -Lubrication 
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+ 
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+ 
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+ 
+ 
+  
+Initial Start-up. 
+Each Compressor Unit built is extensively tested at the factory before shipment. The Unit is shipped with 
+the original oil in it as used for testing purposes. 
+ Check the Oil level and for any Oil leaks on a daily 
+basis. This must be done when the Unit is off. Top up 
+the Oil level on a monthly basis.  
+Use only DV Systems ‘ DEV-3000 ’ Synthetic Oil. Also,  
+do not mix the ‘DEV-3000’ with any other lubricant. 
+ 
+Subsequent Oil Changes. 
+Drain the existing oil from the Unit. (Please be 
+advised that the Unit cannot be drained fully of oil, as 
+some oil may remain in various components ie 
+Cooler, Tubing, etc.)  
+Fill the Oil Reservoir to the Metal Band on the 
+External Oil Level Gauge as shown below. Do not under or overfill. See drawing below. 
+ 
+Use only DV Systems ‘ DEV-3000 ’ Synthetic Oil, 
+available in both 1 US gallon (3.8 litre) jugs or 5 US 
+gallon (5 x 3.8 litre) pails. Any remaining oil may be 
+used for ‘top-ups’.‘ 
+ 
+The ‘ MK-G20-30-1 ’ Maintenance Kit includes: 
+(1) 5 US Gallon Oil (‘DEV-3000’) 
+(2) Oil Filter (’DSC-624’) (1) Air/Oil Separator Filter (’DSC-001148’) 
+(2) Air Filter (’DSC-001961’) 
+(1) In Line Filter (‘DSC-612) 
+ 
+The ‘MK-G20-30-1’ Kit is appropriate for Units of serial number ‘37162’ and higher. Use ‘MK-G20-30’ 
+Kit for Units of serial number ‘37135’ and lower. 
+ 
+Do not attempt to operate the Unit without first checking whether there is oil in the Oil 
+Reservoir. Add oil as required. Serious 
+damage may result from use, however 
+limited, without oil. 
+ 
+Use of improper oil may negatively affect 
+Compressor performance or shorten Unit life. 
+Resulting problems are not covered by the 
+DV Systems Inc. Air Compressor Warranty. 
+ 
+Condensation (water) may form in the Oil Reservoir with the oil. If this occurs, as the 
+water will tend to settl e on the bottom of the 
+Reservoir, drain the water from the Reservoir 
+until you notice oil draining. Top up the Reservoir with new oil using only the DV 
+Systems ‘DEV-3000’ oil. 
+When running, 
+oil level will be 
+closer to bottom 
+Elbow Oil Fill Port 
+Oil Drain Valve & Tube Oil Filter DSC-624 
+Correct 
+Oil Level Air/Oil Separator Filter 
+DSC-001148 Downloaded from www.Manualslib.com  manuals search engine  

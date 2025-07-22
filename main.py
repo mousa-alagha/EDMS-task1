@@ -20,8 +20,8 @@ from typing import List, Dict, Any, Tuple
 import streamlit as st
 from PyPDF2 import PdfReader
 
-from langchain_community.embeddings import OpenAIEmbeddings
-from langchain_community.vectorstores import FAISS
+from langchain.embeddings import OpenAIEmbeddings
+from langchain.vectorstores import FAISS
 from langchain.schema import Document
 from openai import OpenAI
 
@@ -36,7 +36,7 @@ openai = OpenAI()
 # ---------- Memory Manager ----------
 class MemoryManager:
     """Persistent conversation memory stored in SQLite"""
-    def __init__(self, db_path: str = "memory1.db"):
+    def __init__(self, db_path: str = "memory15.db"):
         self.conn = sqlite3.connect(db_path, check_same_thread=False)
         self._create_table()
 

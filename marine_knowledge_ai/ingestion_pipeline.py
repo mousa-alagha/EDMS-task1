@@ -3,8 +3,9 @@ import json
 from PyPDF2 import PdfReader
 
 # === CONFIG ===
-METADATA_FILE_PATH = r"C:\Users\gener\Downloads\ADNOC PROJECTS\marine_knowledge_ai\data\metadata.json"
-RAW_DOCUMENTS_DIR = r"C:\Users\gener\Downloads\ADNOC PROJECTS\marine_knowledge_ai\data\raw_documents"
+SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
+METADATA_FILE_PATH = os.path.join(SCRIPT_DIR, "data", "metadata.json")
+RAW_DOCUMENTS_DIR     = os.path.join(SCRIPT_DIR, "data", "raw_documents")
 
 # === LOAD METADATA ===
 def load_document_metadata(path):

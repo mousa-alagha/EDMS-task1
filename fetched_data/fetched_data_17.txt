@@ -1,0 +1,125 @@
+[cas2545.pdf, page 31]  29 
+ 
+Compressor Terminology 
+AIR/OIL 
+COALESCER Performs second stage separation of oil from compressed air feeding tools.  
+Sometimes referred to as the separator cartridge or purifier cartridge. 
+CFM Refers to the volume of compressed air being produced expressed as cubic 
+feet of air per minute. 
+SPEED CONTROL Sometimes referred to as the engine speed control 
+OIL SUMP The first stage of oil separation from  compressed air.  Also serves as reservoir 
+area for compressor lubricant, measured in rpm (revolutions per minute). 
+PSI Refers to the operating pressure the system is set up at, expressed as pounds 
+per square inch. 
+PRESSURE RELIEF 
+VALVE A valve located on the oil sump which opens in case of excessive pressure.  
+Sometimes referred to as the pop-off valve or the check valve. 
+HI-TEMP SHUTDOWN 
+SWITCH Works in conjunction with a power relay, sending a signal to stop the 
+compressor power source in cases of high compressor oil temperature. 
+ 
+  SECTION 3 
+Operation Downloaded from www.Manualslib.com  manuals search engine  
+---
+[zt_series.pdf, page 47]Instruction book 
+2920 1472 03  47 29. Open drain valve (8-Fig. 1.5). 
+ 
+ 
+  
+ 
+  
+ 
+  
+ 
+Co Oil cooler Dmo Oil drain valve, gear casing 
+FC Oil filler cap 
+OF Oil filter SG Oil level sight-glass 
+1 Arrow, indicating correct rotation 
+direction of drive motor 
+ 
+Fig. 3.3  Oil system components 
+ 
+ 
+ 
+ 1 Start button 
+2 Display 
+3 Scroll keys 4 Tabulator key 
+5 Function keys 6 Voltage on LED 
+7 General alarm LED 
+8 Automatic operation LED 9 Stop button 
+S3 Emergency stop button 
+ Fig. 3.4  Control panel 
+ 
+ 
+---
+[i125s.pdf, page 86]2200M4JE-HO-iS2-N_2014.04.  
+Chapter 6 Troubleshooting  
+Screw Compressor i-series 
+  6-2  Symptom Direct cause Root cause Action 
+02 Compressor 
+stops 
+immediately 
+after startup.  Motor overload Motor overload that occurs just after startup is mostly 
+caused not by the refrigeration cycle but by the motor. 
+Refer to the instruction manual of the motor. 
+03 Abnormally 
+low pressure (Low suction 
+pressure) Refer to direct 
+cause, "Low pressure protection 
+circuit activates", in 
+Item 02 above. Same as left 
+ Same as left  
+04  Low oil 
+pressure 
+(Low oil 
+supply pressure) 
+ Oil filter element is 
+clogged. 
+* Pressure 
+difference between outlet 
+and inlet ports is 
+large. Contamination of lubricant Remove clogging, and check oil for contamination/replace oil. 
+Internal defects of compressor Check for oil contamination and conduct vibration/noise diagnosis. Overhaul compressor if 
+necessary. 
+Insufficient oil in oil 
+separator. 
+ Oil heater is not 
+functioning, 
+refrigerant 
+dissolves 
+excessively when 
+the machine is stopped, and oil 
+loss occurs at 
+startup. Inspect oil heater alone, inspect relays, etc. on related circuits, and 
+replace parts as necessary. 
+Insufficient oil return due to 
+insufficient 
+refrigerant 
+circulation Correct insufficient refrigerant 
+circulation, and return oil from 
+load-side heat exchanger.  
+* Supply lubricant temporarily. 
+Troubles such as 
+clogging in oil 
+return passage Remove causes of the trouble, 
+and restore the system. 
+Extensive oil leak Inspect machine room and around 
+the compressor, and take 
+necessary actions. 
+Check if there is oil floating in cooling water system. 
+→If there is, check for oil leak 
+from heat transmission tube of oil cooler and take necessary 
+actions. 
+If oil line piping is damaged due to excessive vibration, take 
+measures to reduce vibration (including measures for 
+resonance vibration). 
+Oil pressure 
+detection function is 
+defective. Failure of oil 
+pressure protection 
+switch, pressure 
+sensor, relay, etc. Identify defective devices, investigate causes of failure and 
+take necessary actions. 
+Then, replace failed device(s). 
+Pressure pipe is 
+clogged. Remove clogging, and check oil for contamination/replace oil. 
